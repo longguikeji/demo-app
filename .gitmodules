@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/longguikeji/arkfbp-py-server-template.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/longguikeji/arkfbp-admin-template.git
