@@ -4,3 +4,6 @@
 [submodule "admin"]
 	path = admin
 	url = https://github.com/longguikeji/arkfbp-admin-template.git
+[submodule "client"]
+	path = client
+	url = https://github.com/longguikeji/ark-desktop.git
